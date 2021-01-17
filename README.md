@@ -18,3 +18,4 @@ OOP utan
 15.	Eddzőterembe járni
 16.	Streatbox Hamburgeresben enni akármit (eddig csupán elsétáltál mellette)
 17.	Német nyelvvizsga
+18. megvenni a Cyberpunk 2077-et
