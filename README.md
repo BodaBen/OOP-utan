@@ -1,6 +1,8 @@
 # OOP-utan
 OOP utan
 
+Marci's List
+
 1.	Üvegesre menni
 2.	Autót venni
 3.	Új gépet venni
@@ -20,3 +22,5 @@ OOP utan
 17.	Német nyelvvizsga
 18. Cyberpunk 2077
 19. Red Dead Redemption 2
+20. MI-t abszolválni
+21. 
